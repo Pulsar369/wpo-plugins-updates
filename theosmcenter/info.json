@@ -1,16 +1,16 @@
 {
   "name": "WPO Toolkit Helper — The OSM Center",
   "slug": "wpo-toolkit-theosmcenter",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "author": "WPO Toolkit",
   "homepage": "https://raw.githubusercontent.com/Pulsar369/wpo-plugins-updates/main/theosmcenter/info.json",
   "requires": "5.0",
   "tested": "6.7",
   "requires_php": "7.4",
   "last_updated": "2026-04-29",
-  "package": "https://raw.githubusercontent.com/Pulsar369/wpo-plugins-updates/main/theosmcenter/wpo-toolkit-theosmcenter-v2.0.1.zip",
+  "package": "https://raw.githubusercontent.com/Pulsar369/wpo-plugins-updates/main/theosmcenter/wpo-toolkit-theosmcenter-v2.1.0.zip",
   "sections": {
-    "description": "WPO Toolkit Helper a medida para The OSM Center. 11 fixes activos basados en último wp-audit (2026-04-28T11-52-21-wp-audit).\n\n<h4>Fixes activos</h4><ul><li>01-listing-images-priority</li><li>02-slider-aspect-ratio</li><li>03-archive-min-height</li><li>04-archive-observer</li><li>05-block-users-rest</li><li>06-robots-sitemap</li><li>07-remove-localbusiness-schema</li><li>08-conditional-directorist-assets</li><li>09-ad-slot-reservation</li><li>10-preload-lcp-thumbnail</li><li>11-block-bot-paths</li></ul>\n<h4>Plugins detectados en el audit</h4><p><code>directorist</code>, <code>host-analyticsjs-local</code>, <code>ninja-forms</code>, <code>one-user-avatar</code>, <code>osm-directorist-cls-security-fix-v1-7</code>, <code>perfmatters</code>, <code>redirection</code>, <code>redis-cache</code>, <code>seo-by-rank-math</code>, <code>wp-rocket</code>, <code>wp-rocket-smart-preload</code></p>",
-    "changelog": "<h4>2.0.1 (2026-04-29)</h4><ul><li>01-listing-images-priority</li><li>02-slider-aspect-ratio</li><li>03-archive-min-height</li><li>04-archive-observer</li><li>05-block-users-rest</li><li>06-robots-sitemap</li><li>07-remove-localbusiness-schema</li><li>08-conditional-directorist-assets</li><li>09-ad-slot-reservation</li><li>10-preload-lcp-thumbnail</li><li>11-block-bot-paths</li></ul>"
+    "description": "WPO Toolkit Helper a medida para The OSM Center. 12 fixes activos basados en último wp-audit (2026-04-28T11-52-21-wp-audit).\n\n<h4>Fixes activos</h4><ul><li>01-listing-images-priority</li><li>02-slider-aspect-ratio</li><li>03-archive-min-height</li><li>04-archive-observer</li><li>05-block-users-rest</li><li>06-robots-sitemap</li><li>07-remove-localbusiness-schema</li><li>08-conditional-directorist-assets</li><li>09-ad-slot-reservation</li><li>10-preload-lcp-thumbnail</li><li>11-block-bot-paths</li><li>12-adsense-preconnects</li></ul>\n<h4>Plugins detectados en el audit</h4><p><code>directorist</code>, <code>host-analyticsjs-local</code>, <code>ninja-forms</code>, <code>one-user-avatar</code>, <code>osm-directorist-cls-security-fix-v1-7</code>, <code>perfmatters</code>, <code>redirection</code>, <code>redis-cache</code>, <code>seo-by-rank-math</code>, <code>wp-rocket</code>, <code>wp-rocket-smart-preload</code></p>",
+    "changelog": "<h4>2.1.0 (2026-04-29)</h4><ul><li>01-listing-images-priority</li><li>02-slider-aspect-ratio</li><li>03-archive-min-height</li><li>04-archive-observer</li><li>05-block-users-rest</li><li>06-robots-sitemap</li><li>07-remove-localbusiness-schema</li><li>08-conditional-directorist-assets</li><li>09-ad-slot-reservation</li><li>10-preload-lcp-thumbnail</li><li>11-block-bot-paths</li><li>12-adsense-preconnects</li></ul>"
   }
 }
